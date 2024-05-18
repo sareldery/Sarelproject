@@ -1,5 +1,5 @@
 portfolio website contains all of my web development projects
-you can find the full code in gitHub link: https://github.com/sareldery/WebDevelopmentSarel.git
+you can find the full code in gitHub link: https://github.com/sareldery/Sareldey.git
 
 main page - index.html
 1. download my resume by "Download resume" button
