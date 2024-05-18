@@ -367,6 +367,11 @@ button:hover {
     font-size: 24px;
 }
 
+.socialIcons {
+    margin-left: 43%;
+    font-size: 35px;
+}
+
 
 @media (max-width: 768px) {
 
@@ -451,10 +456,11 @@ button:hover {
         margin-top: 2%;
         justify-content: center;
         display: flex;
+        flex-direction: column;
     }
 
     .socialIcons {
-        display: none;
+        margin-left: 25%;
     }
 
     nav {
